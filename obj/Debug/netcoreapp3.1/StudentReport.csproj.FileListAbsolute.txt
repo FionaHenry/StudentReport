@@ -1,0 +1,13 @@
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.exe
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.deps.json
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.runtimeconfig.json
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.runtimeconfig.dev.json
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.dll
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\bin\Debug\netcoreapp3.1\StudentReport.pdb
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.csprojAssemblyReference.cache
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.AssemblyInfoInputs.cache
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.AssemblyInfo.cs
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.csproj.CoreCompileInputs.cache
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.dll
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.pdb
+C:\Users\Fiona Henry\OneDrive\Documents\GitHub\OOP2020\010MOD005437\StudentReport\obj\Debug\netcoreapp3.1\StudentReport.genruntimeconfig.cache

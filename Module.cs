@@ -5,7 +5,7 @@ namespace StudentReport
 {
     class Module
     {
-        //FIND A WAY TO MAKE IT CHECK THAT THE ASSIGNMENT WEIGHTS ADD UP TO 1
+        //MAKE IT CHECK THAT THE ASSIGNMENT WEIGHTS ADD UP TO 1
         List<Grade> studentGrades = new List<Grade>();
         public string moduleName;
         //public double moduleGrade;

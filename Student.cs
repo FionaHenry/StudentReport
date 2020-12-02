@@ -30,11 +30,7 @@ namespace StudentReport
 
         public void DisplayReportCard()
         {
-            /*foreach(Module module in studentGrades)
-            {
-                Console.WriteLine($"Module: {module.moduleName}");
-                
-            }*/
+            
         }
         
     }

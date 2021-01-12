@@ -9,7 +9,7 @@ namespace StudentReport
 
         public GradeProfile()
         {
-
+            
         }
         public void CalculateAverageGrade()
         {

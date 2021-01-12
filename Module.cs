@@ -5,7 +5,7 @@ namespace StudentReport
 {
     class Module
     {
-        static List<Grade> studentGrades = new List<Grade>();
+        public List<Grade> studentGrades = new List<Grade>();
         
         public string moduleName;
 

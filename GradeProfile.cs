@@ -5,7 +5,7 @@ namespace StudentReport
 {
     class GradeProfile
     {
-        List<Module> moduleResults = new List<Module>();
+        public List<Module> moduleResults = new List<Module>();
 
         public GradeProfile()
         {

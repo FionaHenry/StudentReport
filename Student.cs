@@ -4,7 +4,6 @@ namespace StudentReport
 {
     class Student
     {
-        GradeProfile gradeProfile = new GradeProfile();
         public string studentID;
         public string firstName;
         public string surname;
@@ -26,11 +25,6 @@ namespace StudentReport
             Console.WriteLine($"{firstName} {surname}");
             Console.WriteLine(dateOfBirth);
             Console.WriteLine(course);
-        }
-
-        public void DisplayReportCard()
-        {
-            
         }
         
     }

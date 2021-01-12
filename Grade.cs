@@ -15,5 +15,11 @@ namespace StudentReport
             this.assignmentWeight = weight;
         }
 
+        public void DisplayGrade()
+        {
+            Console.WriteLine($"Assignment number {assignmentNumber}");
+            Console.WriteLine($"Mark recieved: {markRecieved}");
+        }
+
     }
 }
